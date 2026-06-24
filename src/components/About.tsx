@@ -61,7 +61,7 @@ export const About: FC<AboutProps> = ({ onBack }) => {
                         🐙 GitHub
                     </a>
                     <a
-                        href="linkedin.com/in/austin-baune-2b19577b"
+                        href="https://linkedin.com/in/austin-baune-2b19577b"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="signpost-link"
