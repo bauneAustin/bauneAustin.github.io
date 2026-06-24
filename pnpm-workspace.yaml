@@ -1,0 +1,6 @@
+# pnpm-workspace.yaml
+# Enforce a 5-day (7200 minute) "cooldown" period for all packages
+# to protect against day-zero supply chain attacks.
+minimumReleaseAge: 7200
+packages:
+  - '.'
